@@ -22,6 +22,15 @@ public class day1 {
 
 	}
 
+@Test
+public void Demo12()
+ {
+	System.out.println("hello");
+	System.out.println("hello1");
+	System.out.println("hello2");
+
+}
+
 	@AfterSuite
 	public void afsuite()
 	{

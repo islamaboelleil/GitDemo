@@ -11,6 +11,12 @@ public class day2 {
 		System.out.println("good");
 	}
 	
+	@Test(groups= {"Smoke"})
+	public void ploan12()
+	{
+		System.out.println("good");
+	}
+	
 	@BeforeTest
 	public void prerequister()
 	{
